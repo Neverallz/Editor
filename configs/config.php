@@ -1,0 +1,11 @@
+<?php
+
+
+		// Define configuration
+	define("DB_HOST", 'localhost');
+	define("DB_USER", 'root');
+	define("DB_PASS", '');
+	define("DB_NAME",'cognitive_jti');
+	define('BASE_PATH',  dirname( __dir__ ). DIRECTORY_SEPARATOR);
+
+?>
